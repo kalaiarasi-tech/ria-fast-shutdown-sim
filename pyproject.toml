@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ria-sim-v07"
+version = "0.1.0"
+description = "RIA Simulation Validator: Sense → Release → Terminate → Recover (v0.7)"
+authors = [{name = "Steven Lanier-Egu", email = "noreply@example.com"}]
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "matplotlib"
+]
+
+[project.scripts]
+ria-sim = "ria_sim_v07:main"
